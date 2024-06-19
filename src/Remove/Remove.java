@@ -16,6 +16,6 @@ public abstract class Remove {
     String getFilePath(){
         return filePath;
     }
-    abstract void remove(List<Checkbox> cb);
+    abstract void remove(ArrayList<Checkbox> cb);
 
 }

@@ -44,7 +44,14 @@ public class AddScheduleView {
             public void actionPerformed(ActionEvent e) {
 
                 ShareScheduleView share = new ShareScheduleView();
-                share.shareScheduleView();
+                share.shareScheduleView(new Runnable() {
+                    @Override
+                    public void run() {
+                        writeCheckList.dispose();
+                        runnable.run();
+                    }
+                });
+
             }
         });
         buttonPanel.add(shareButton);

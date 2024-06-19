@@ -16,7 +16,7 @@ public class RemoveSelect extends Remove{
 
     private String filePath = getFilePath()+MainView.getCurrentDay()+".txt";
     @Override
-    public void remove(List<Checkbox> cb) {
+    public void remove(ArrayList<Checkbox> cb) {
 
         try(BufferedWriter w = new BufferedWriter(new FileWriter(filePath))) {
             for(Checkbox checkbox : cb){

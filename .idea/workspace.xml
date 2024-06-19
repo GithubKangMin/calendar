@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="43eb44b6-1ba1-4ca0-a62e-6f5b6f2ced51" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project0123.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Project0123.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Remove/Remove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Remove/Remove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Remove/RemoveDay2Day.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Remove/RemoveDay2Day.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Remove/RemoveSelect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Remove/RemoveSelect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/add/Add.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/add/Add.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/add/AddDay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/add/AddDay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/add/AddPeriod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/add/AddPeriod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/user/CheckInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/user/CheckInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/user/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/user/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/user/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/user/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/AddDay2DayScheduleView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/AddDay2DayScheduleView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/AddScheduleView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/AddScheduleView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/LoginView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/LoginView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/MainView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/MainView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/PopUpView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/PopUpView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/RemoveDay2DayScheduleView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/RemoveDay2DayScheduleView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/RemoveView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/RemoveView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/ScheduleView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/ScheduleView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/ShareScheduleView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/ShareScheduleView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/SignUpView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/SignUpView.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2i6JTylo5SGsvXJJSgg5ykU2Gkr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/d/Downloads/calendar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Project0123" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Project0123" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43eb44b6-1ba1-4ca0-a62e-6f5b6f2ced51" name="Changes" comment="" />
+      <created>1718805105965</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718805105965</updated>
+      <workItem from="1718805107186" duration="470000" />
+      <workItem from="1718805793922" duration="132000" />
+      <workItem from="1718805947853" duration="110000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

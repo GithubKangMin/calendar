@@ -18,7 +18,7 @@ public class ShareScheduleView implements PopUpView{
     private TextField scheduleField;
     private Button confirmButton;
 
-    public void shareScheduleView() {
+    public void shareScheduleView(Runnable runnable) {
         writeCheckList.setSize(300, 150);
         writeCheckList.setLayout(new GridLayout(3, 1, 10, 10));
         writeCheckList.setLocationRelativeTo(null);
@@ -52,6 +52,7 @@ public class ShareScheduleView implements PopUpView{
 
 
                     saveSchedule(name, schedule);
+                    runnable.run();
                 }
             }
         });
@@ -84,7 +85,8 @@ public class ShareScheduleView implements PopUpView{
             }
 
             try (BufferedWriter writer = new BufferedWriter(new FileWriter(User.getUserFolder() + "\\"+MainView.getCurrentYear()+"\\"+MainView.getCurrentMonth()+"\\"+MainView.getCurrentDay()+".txt", true))) {
-                try(BufferedWriter writer1 = new BufferedWriter(new FileWriter("C:\\schedule_system\\User\\"+name+"\\"+MainView.getCurrentYear()+"\\"+MainView.getCurrentMonth()+"\\"+MainView.getCurrentDay()+".txt",true))){
+                try(BufferedWriter writer1 = new BufferedWriter(new FileWriter(friendPath+"\\"+MainView.getCurrentYear()+"\\"+MainView.getCurrentMonth()+"\\"+MainView.getCurrentDay()+".txt",true))){
+
                     writer.write("0;"+schedule+"\n");
 
                     writer1.write("0;"+schedule+"\n");

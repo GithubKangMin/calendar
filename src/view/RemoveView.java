@@ -22,7 +22,7 @@ public class RemoveView {
     private Button removeAllButton = new Button("하루 지우기");
     private Button removeButton = new Button("일정 지우기");
 
-    List<Checkbox> checkboxes = new ArrayList<>();
+    ArrayList<Checkbox> checkboxes = new ArrayList<>();
     public void removeView(Runnable runnable){
         removelistPanel.setLayout(new GridLayout(0, 1, 10, 10));
         String filePath = User.getUserFolder() +"\\"+ MainView.getCurrentYear() + "\\" + MainView.getCurrentMonth() + "\\" + MainView.getCurrentDay() + ".txt";
